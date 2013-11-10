@@ -1,4 +1,4 @@
-module Piecon
+module Tinycon
   module Rails
     class Engine < ::Rails::Engine
     end
