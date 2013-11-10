@@ -1,6 +1,6 @@
 # Tinycon-Rails
 
-A Ruby wrapper to integrate [Tinnycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
+A Ruby wrapper to integrate [Tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 
 ## Installation
 
