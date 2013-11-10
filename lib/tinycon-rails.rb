@@ -1,2 +1,2 @@
-require 'piecon/version'
-require 'piecon/rails'
+require 'tinycon/version'
+require 'tinycon/rails'

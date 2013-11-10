@@ -1,3 +1,3 @@
-module Piecon
+module Tinycon
   VERSION = "0.0.1"
 end

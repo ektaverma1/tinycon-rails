@@ -1,4 +1,4 @@
-# 0.0.1 / 2013-11-9
+# 0.0.1 / 2013-11-10
 
-Piecon gearing up!
+Tinycon gearing up!
 
