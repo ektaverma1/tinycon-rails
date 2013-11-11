@@ -1,4 +1,5 @@
 # Tinycon-Rails
+[![Gem Version](https://badge.fury.io/rb/tinycon-rails.png)](http://badge.fury.io/rb/tinycon-rails)
 
 A Ruby wrapper to integrate [Tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 
